@@ -71,9 +71,9 @@ The goal is not only to collect accepted solutions, but also to build a personal
 
 Start Date: **05/06/2026**
 
-Problems Solved: **0**
+Problems Solved: **3**
 
-Current Streak: **0 days**
+Current Streak: **2 days**
 
 ---
 
